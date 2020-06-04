@@ -40,5 +40,4 @@ public class Appointment {
     public LocalDateTime getStartTime() {
         return startTime;
     }
-
 }
